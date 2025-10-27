@@ -31,6 +31,7 @@ Most of the tools are based on the [MATE Desktop Environment](https://mate-deskt
 [Here](./ToolsAndApplications/README.md) you find tools that help with building an HPC Desktop or that users of HPC Desktops will find useful.
 
 # Publications about the HPC Desktop
+- Oak Ridge National Lab Presentation about HPC Desktops, October 2025 [Presentation Slides](./Documents/HPC_Desktop_ORNL_Talk.pdf)
 - HPC Advisory Council Swiss Meeting 2025 [Presentation Slides](https://www.hpcadvisorycouncil.com/events/2025/swiss-conference/pdf/day1/3_Indiana_U.pdf) | [Video of Presentation](https://youtu.be/B7IsDeHGRVw?si=Avs1jEVpX063IOvi)
 - SC24: Interactive HPC and the LUNARC Desktop
 Environment [Paper PDF](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400c012/555400c012.pdf) | [Presentation Slides](https://drive.google.com/file/d/1VMKT_89wQqDLyBwWpR5MT_pCISXVgnzG/view?usp=sharing)
